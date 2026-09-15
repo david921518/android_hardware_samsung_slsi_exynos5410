@@ -40,6 +40,5 @@ const size_t WFD_GSC_DRM_IDX = 3;
 #endif
 const int FIMD_GSC_USAGE_IDX[] = {FIMD_GSC_IDX, FIMD_GSC_SEC_IDX};
 const int AVAILABLE_GSC_UNITS[] = { 0, 3, 3, 3 };
-#endif
 
 #endif

@@ -35,6 +35,6 @@ LOCAL_C_INCLUDES += \
 
 LOCAL_SHARED_LIBRARIES += libMcClient
 
-include hardware/samsung_slsi-cm/$(TARGET_SOC)/mobicore/common/LogWrapper/Android.mk
+include hardware/samsung_slsi/$(TARGET_SOC)/mobicore/common/LogWrapper/Android.mk
 
 include $(BUILD_STATIC_LIBRARY)
